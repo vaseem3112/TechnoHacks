@@ -8,3 +8,7 @@ Tasks Completed:
 
 
 2.Performing Data Cleaning 
+
+
+
+3.Calculate Summary Statistics
